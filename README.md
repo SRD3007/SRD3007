@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is a bot account managed by <a href="https://github.com/DiskRoco">@DiskRoco</a>
 
 <!--
 **SRD3007/SRD3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
